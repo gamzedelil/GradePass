@@ -52,16 +52,16 @@ public class main {
             lesson--; 
         }
 		
-		double avarage = (math + physics + turkish + chemistry + music) / lesson; 
+		double average = (math + physics + turkish + chemistry + music) / lesson; 
 		
-		if (avarage < 55 ) {
+		if (average < 55 ) {
 			System.out.println("You failed the class");
-			System.out.println ("Your avarage is:" +avarage); 
+			System.out.println ("Your average is:" +average); 
 		}
 		
 		else {
 			System.out.println("You passed the class.");
-			System.out.println ("Your avarage is:" +avarage); 
+			System.out.println ("Your average is:" +avarage); 
 		}
 
 	}
