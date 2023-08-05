@@ -61,7 +61,7 @@ public class main {
 		
 		else {
 			System.out.println("You passed the class.");
-			System.out.println ("Your average is:" +avarage); 
+			System.out.println ("Your average is:" +average); 
 		}
 
 	}
